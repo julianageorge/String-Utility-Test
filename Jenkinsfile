@@ -5,7 +5,7 @@ pipeline {
 
         stage('Clone') {
             steps {
-                git 'https://github.com/julianageorge/Testing_Assignment.git'
+                git 'https://github.com/julianageorge/String-Utility-Test.git'
             }
         }
 
